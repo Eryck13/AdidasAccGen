@@ -1,0 +1,3 @@
+Proxy Format(Erase this and save after importing proxies)
+IP:Port
+User:Pass@IP:Port
